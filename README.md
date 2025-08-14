@@ -1,5 +1,7 @@
 # Challenge-Literalura
 
+NOTA: Este es solo un ejemplo basico, del cual necesita muchisimo mas trabajo y preparacion para ser llamado proyecto.
+
 # 📚 Literalura
 
 Aplicación Java de consola para explorar libros usando la API Gutendex con almacenamiento en PostgreSQL.
@@ -13,11 +15,9 @@ mvn spring-boot:run
 🚀 Características clave
 Busca libros por título
 
-Almacena tus búsquedas localmente
-
-Filtra por idioma (ES/EN/FR/PT...)
-
-Consulta autores por periodo histórico
+- Almacena tus búsquedas localmente
+- Filtra por idioma (ES/EN/FR/PT...)
+- Consulta autores por periodo histórico
 
 🛠️ Tecnologías
 Java 17 | Spring Boot 3.1
